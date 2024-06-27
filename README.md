@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
--   Hema Kalyan - [emmaoluga@gmail.com](emmaoluga@gmail.com)
+-   Oluga Abayomi - [emmaoluga@gmail.com](emmaoluga@gmail.com)
